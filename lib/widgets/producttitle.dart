@@ -3,7 +3,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_application_1/model/product.dart';
-import 'package:flutter_application_1/home.dart';
 import 'package:flutter_application_1/widgets/productimage.dart';
 import 'package:flutter_application_1/widgets/productscreen.dart';
 

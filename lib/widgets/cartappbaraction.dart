@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/model/pushuctscreen.dart';
 import 'package:flutter_application_1/home.dart';
 import 'package:flutter_application_1/widgets/cartscreen.dart';
-import 'package:flutter_application_1/widgets/productscreen.dart';
 
 class CartAppBarAction extends StatefulWidget {
   const CartAppBarAction({Key? key}) : super(key: key);
