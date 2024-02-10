@@ -57,7 +57,7 @@ class _HomeScreenState extends State<SimpleEcommerce> {
               crossAxisCount: 2,
               mainAxisSpacing: 24,
               crossAxisSpacing: 24,
-              childAspectRatio: .78,
+              childAspectRatio: 0.75,
               children: searchResultTiles,
             )
           : ListView(
